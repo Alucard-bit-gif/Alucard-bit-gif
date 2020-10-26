@@ -1,4 +1,9 @@
 ### Hi there 👋
+#Juan Sebastian
+
+
+##Estudios.
+1. Experiencia.
 
 <!--
 **Alucard-bit-gif/Alucard-bit-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
