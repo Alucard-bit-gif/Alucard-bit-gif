@@ -28,13 +28,13 @@
 
 ### :bar_chart: Educación Superior y Formación Técnica. 
 
-#### 1. Educación Técnica.
-
-   Instiución: SENA 
+-  Educación Técnica.
+ 
+   Institución: SENA 
    Año: 1999
    Título Obtenido: Técnico Profesional en Comercio Internacional. :ship:
 
-#### 2. Educación Superior.
+-  Educación Superior.
 
    Institución: Universidad de Antioquia 
    Año: 2007
@@ -47,12 +47,30 @@
    
 ### :dvd: Formación Complementaria.
 
-Institución: Universidad Nacional de Colombia. Sede Medellín. Escuela de Ingeniería de la Organización. Facultad de Minas.
-Curso: Primer Seminario en lo Social. IMPACTO SOCIAL DE LA GESTION.
-Año: 2005
+-  Institución: Universidad Nacional de Colombia. Sede Medellín. Escuela de Ingeniería de la Organización. Facultad de Minas.
+   Curso: Primer Seminario en lo Social. IMPACTO SOCIAL DE LA GESTION.
+   Año: 2005
+___
+-  Institución: UNIVERSIDAD COOPERATIVA DE COLOMBIA.
+Curso: Formulación de Proyectos.
+Año: 2011
 ___
 
+-  Institución: SENA.  
+   Curso: Formulación de Proyectos.
+   Año: 2010
 
+   Curso: Estrategias para la orientación de procesos de formación en  ambientes virtuales de aprendizaje.
+   Año: 2010
+   
+   Curso: Planeación de la Estrategia de Ventas a través del Comercio electrónico.
+   Año: 2012
+   
+   Curso: Cálculo e Interpretación de Indicadores Financieros
+   Año: 2016
+   
+
+ 
 
 
 
