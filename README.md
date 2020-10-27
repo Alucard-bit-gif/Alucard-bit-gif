@@ -2,7 +2,7 @@
 
 # Juan Sebastian Vargas Montoya :registered:
 
-:copyright: Sociólogo egresado de la Universidad de Antioquia y Técnico Profesional en Comercio Internacional del SENA. 13 años de experiencia profesional. 
+:copyright: Sociólogo egresado de la Universidad de Antioquia y Técnico Profesional en Comercio Internacional del SENA. 
 
 ## :european_post_office: Resumen Laboral .
 
