@@ -30,42 +30,55 @@
 
 -  Educación Técnica.
  
-   Institución: SENA 
+   Institución: SENA
+   
    Año: 1999
+   
    Título Obtenido: Técnico Profesional en Comercio Internacional. :ship:
 
 -  Educación Superior.
 
    Institución: Universidad de Antioquia 
+   
    Año: 2007
+   
    Título Obtenido: Sociólogo. :rocket:
 
-   Trabajo de Ivestigación: Empresas Sociales Sostenibles desde una Perspectiva Sistémica de la Organización. 
-   Universidad de Antioquia. Facultad de Ciencias Sociales y Humanas. Departamento de Sociología. 2006-2007. :blue_book:
+   Trabajo de Investigación: Empresas Sociales Sostenibles desde una Perspectiva Sistémica de la Organización. :blue_book:
    
    
    
 ### :dvd: Formación Complementaria.
 
--  Institución: Universidad Nacional de Colombia. Sede Medellín. Escuela de Ingeniería de la Organización. Facultad de Minas.
+-  Institución: Universidad Nacional de Colombia. Escuela de Ingeniería de la Organización.
+
    Curso: Primer Seminario en lo Social. IMPACTO SOCIAL DE LA GESTION.
+   
    Año: 2005
    
+   
 -  Institución: UNIVERSIDAD COOPERATIVA DE COLOMBIA.
+
    Curso: Formulación de Proyectos.
+   
    Año: 2011
 
--  Institución: SENA.  
+-  Institución: SENA. 
+
    Curso: Formulación de Proyectos.
+   
    Año: 2010
 
    Curso: Estrategias para la orientación de procesos de formación en  ambientes virtuales de aprendizaje.
+   
    Año: 2010
    
    Curso: Planeación de la Estrategia de Ventas a través del Comercio electrónico.
+   
    Año: 2012
    
    Curso: Cálculo e Interpretación de Indicadores Financieros
+   
    Año: 2016
    
 
