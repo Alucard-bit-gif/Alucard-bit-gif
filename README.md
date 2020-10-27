@@ -92,12 +92,15 @@
 - Medellín (Antioquia)
 
  
->Así que comprende,
+ 
+___ 
+ 
+>*Así que comprende,
 >no pierdas el tiempo buscando esos años desperdiciados.
 >Cara arriba, ponte de pie.
->Y te das cuenta de que estás viviendo en los años dorados
+>Y date cuenta de que estás viviendo en los años dorados*
 
- Iron Maiden
+ Iron Maiden https://img2.freepng.es/20180728/xvs/kisspng-iron-maiden-somewhere-in-time-eddie-mask-aces-high-eddie-iron-maiden-5b5d29050d5ed7.9937109515328320050548.jpg
 
 
 
