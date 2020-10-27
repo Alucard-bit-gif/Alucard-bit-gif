@@ -28,20 +28,31 @@
 
 ### :bar_chart: Educación Superior y Formación Técnica. 
 
-1. Educación Técnica.
+#### 1. Educación Técnica.
 
    Instiución: SENA 
    Año: 1999
    Título Obtenido: Técnico Profesional en Comercio Internacional. :ship:
 
-2. Educación Superior.
+#### 2. Educación Superior.
 
    Institución: Universidad de Antioquia 
    Año: 2007
    Título Obtenido: Sociólogo. :rocket:
 
    Trabajo de Ivestigación: Empresas Sociales Sostenibles desde una Perspectiva Sistémica de la Organización. 
-   Universidad de Antioquia. Facultad de Ciencias Sociales y Humanas. Departamento de Sociología. 2006-2007. :blue_book
+   Universidad de Antioquia. Facultad de Ciencias Sociales y Humanas. Departamento de Sociología. 2006-2007. :blue_book:
+   
+   
+   
+### :dvd: Formación Complementaria.
+
+Institución: Universidad Nacional de Colombia. Sede Medellín. Escuela de Ingeniería de la Organización. Facultad de Minas.
+Curso: Primer Seminario en lo Social. IMPACTO SOCIAL DE LA GESTION.
+Año: 2005
+___
+
+
 
 
 
