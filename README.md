@@ -1,5 +1,6 @@
 ### Hi there 👋
-#Juan Sebastian
+
+#Juan Sebastian Vargas Montoya :copyright::registered:
 
 
 ##Estudios.
