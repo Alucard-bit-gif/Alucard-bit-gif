@@ -83,6 +83,8 @@
    
 
 
+___
+
 ## :satellite: Datos de Contacto.
 
 - Dirección: CRA. 52 # 60 – 15 (Apto. 401) 
@@ -100,7 +102,8 @@ ___
 >Cara arriba, ponte de pie.
 >Y date cuenta de que estás viviendo en los años dorados*
 
- Iron Maiden https://img2.freepng.es/20180728/xvs/kisspng-iron-maiden-somewhere-in-time-eddie-mask-aces-high-eddie-iron-maiden-5b5d29050d5ed7.9937109515328320050548.jpg
+ Iron Maiden 
+ 
 
 
 
