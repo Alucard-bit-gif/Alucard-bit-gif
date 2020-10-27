@@ -50,11 +50,10 @@
 -  Institución: Universidad Nacional de Colombia. Sede Medellín. Escuela de Ingeniería de la Organización. Facultad de Minas.
    Curso: Primer Seminario en lo Social. IMPACTO SOCIAL DE LA GESTION.
    Año: 2005
-___
+   
 -  Institución: UNIVERSIDAD COOPERATIVA DE COLOMBIA.
-Curso: Formulación de Proyectos.
-Año: 2011
-___
+   Curso: Formulación de Proyectos.
+   Año: 2011
 
 -  Institución: SENA.  
    Curso: Formulación de Proyectos.
